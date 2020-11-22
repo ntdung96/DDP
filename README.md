@@ -1,6 +1,6 @@
-# Coursera-Shiny-Application-and-Reproducible-Pitch
+# The interval overlapping simulation
 
-This presentation and the application was build for the course Developing Data Products as part of the Coursera Data Science Specializaion.
+In my senior year at college of 2018, I had a privilege to work with professor Ordower, head of the Math department at my college, in a private 1-credit class. He gave me a math problem, which I now don't remember the problem exactly. I could not find an answer and proof to the problem, but I came up with the idea of using the computer to estimating the answer just the night before I met him. I spent the night to reword the math problem into a "programming" question and wrote simulation in R to show him. We both liked the program a lot.
 
 The Shiny app developed for this assignment is available at: https://ntdung96.shinyapps.io/Interval/ 
 
