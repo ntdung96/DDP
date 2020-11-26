@@ -4,8 +4,8 @@ In my senior year at college of 2018, I had a privilege to work with professor O
 
 This is the version of that script, which is only closed to the original code I showed him. The question itself was written up from my memory so it is not the question I received. The final draft I could still keep is in this repository (including a script that used a parallel computing technique): https://github.com/ntdung96/probability
 
-### The Shiny app developed for this simulation is available at: https://ntdung96.shinyapps.io/Interval/ 
+#### The Shiny app developed for this simulation is available at: https://ntdung96.shinyapps.io/Interval/ 
 
-### I wrote a small presentation for this application and published to RPubs: https://rpubs.com/ntdung96/684704
+#### I wrote a small presentation for this application and published to RPubs: https://rpubs.com/ntdung96/684704
 
-### The source codes of ui.R and server.R are available on the GitHub repo: https://github.com/ntdung96/DDP
+#### The source codes of ui.R and server.R are available on the GitHub repo: https://github.com/ntdung96/DDP
